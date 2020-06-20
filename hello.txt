@@ -3,4 +3,10 @@
 a
 bbbbbb
 ccccccccccccc
+<<<<<<< HEAD
 hahahahahah
+=======
+ddasdadasdadasd
+>>>>>>> e7178912f18356308db459a18b7edf6d658c0b33
+冲突
+合并完成   
